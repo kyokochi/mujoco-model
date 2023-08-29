@@ -169,6 +169,7 @@ Menagerie, see [CONTRIBUTING](CONTRIBUTING.md).
 | [Skydio X2](skydio_x2/README.md)|[<img src="skydio_x2/x2.png" width="400">](skydio_x2/README.md)|A|
 | Other              |              |         |
 | [Realsense D435i](realsense_d435i/README.md)|[<img src="realsense_d435i/d435i.png" width="400">](realsense_d435i/README.md)|B|
+| [PAL TALOS](pal_talos/README.md)|[<img src="pal_talos/talos.png" width="400">](pal_talos/README.md)|C|
 
 For corresponding embedded videos, see the MuJoCo
 [documentation](https://mujoco.readthedocs.io/en/latest/models.html).
