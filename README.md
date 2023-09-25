@@ -165,12 +165,12 @@ Menagerie, see [CONTRIBUTING](CONTRIBUTING.md).
 | [xArm7](ufactory_xarm7/README.md)|[<img src="ufactory_xarm7/xarm7.png" width="400">](ufactory_xarm7/README.md)|C|
 | Mobile Manipulators|              |         |
 | [Stretch 2](hello_robot_stretch/README.md)|[<img src="hello_robot_stretch/stretch.png" width="400">](hello_robot_stretch/README.md)|C|
+| [PAL TIAGo](pal_tiago/README.md)|[<img src="pal_tiago/tiago.png" width="400">](pal_tiago/README.md)|C|
+| [PAL TIAGo++](pal_tiago_dual/README.md)|[<img src="pal_tiago_dual/tiago_dual.png" width="400">](pal_tiago_dual/README.md)|C|
 | Drones             |              |         |
 | [Skydio X2](skydio_x2/README.md)|[<img src="skydio_x2/x2.png" width="400">](skydio_x2/README.md)|A|
 | Other              |              |         |
 | [Realsense D435i](realsense_d435i/README.md)|[<img src="realsense_d435i/d435i.png" width="400">](realsense_d435i/README.md)|B|
-| [PAL TIAGo](pal_tiago/README.md)|[<img src="pal_tiago/tiago.png" width="400">](pal_tiago/README.md)|C|
-| [PAL TIAGo++](pal_tiago_dual/README.md)|[<img src="pal_tiago_dual/tiago_dual.png" width="400">](pal_tiago_dual/README.md)|C|
 
 For corresponding embedded videos, see the MuJoCo
 [documentation](https://mujoco.readthedocs.io/en/latest/models.html).
