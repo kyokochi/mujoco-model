@@ -169,6 +169,8 @@ Menagerie, see [CONTRIBUTING](CONTRIBUTING.md).
 | Mobile Manipulators|              |         |
 | [Google Robot](google_robot/README.md)|[<img src="google_robot/robot.png" width="400">](google_robot/README.md)|B|
 | [Stretch 2](hello_robot_stretch/README.md)|[<img src="hello_robot_stretch/stretch.png" width="400">](hello_robot_stretch/README.md)|C|
+| [PAL TIAGo](pal_tiago/README.md)|[<img src="pal_tiago/tiago.png" width="400">](pal_tiago/README.md)|C|
+| [PAL TIAGo++](pal_tiago_dual/README.md)|[<img src="pal_tiago_dual/tiago_dual.png" width="400">](pal_tiago_dual/README.md)|C|
 | Drones             |              |         |
 | [Skydio X2](skydio_x2/README.md)|[<img src="skydio_x2/x2.png" width="400">](skydio_x2/README.md)|A|
 | Other              |              |         |
